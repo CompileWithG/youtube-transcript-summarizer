@@ -2,7 +2,7 @@ let r=null,o=null;const s="AIzaSyAkfKhSoOOMkk-8IJc2OVLr9fQpcaVjKzs";function m()
     <div id="ytSidebarExpanded">
       <div id="ytSidebarHeader">
         <span>📄 Transcript & Summary</span>
-        <button id="ytSidebarCloseBtn">Close</button>
+        <button id="ytSidebarCloseBtn">✖</button>
       </div>
       <div id="ytSidebarContent">
         <h3>🧠 Summary</h3>

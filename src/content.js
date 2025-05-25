@@ -63,7 +63,7 @@ function showSidebar(transcriptText, summaryText) {
     <div id="ytSidebarExpanded">
       <div id="ytSidebarHeader">
         <span>📄 Transcript & Summary</span>
-        <button id="ytSidebarCloseBtn">Close</button>
+        <button id="ytSidebarCloseBtn">✖</button>
       </div>
       <div id="ytSidebarContent">
         <h3>🧠 Summary</h3>
