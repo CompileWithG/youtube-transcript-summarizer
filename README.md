@@ -20,3 +20,5 @@ A Chrome extension that fetches YouTube video transcripts and generates concise 
 
 ```bash
 git clone https://github.com/yourusername/yt-transcript-summarizer.git
+```
+### 2.go To chrome://extensions,enable developer mode and load unpack the /dist folder to use this locally 
