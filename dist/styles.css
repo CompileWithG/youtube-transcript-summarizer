@@ -1,0 +1,53 @@
+#ytSmartSidebar {
+  position: fixed;
+  top: 100px;
+  right: 0;
+  z-index: 99999;
+  font-family: Arial, sans-serif;
+}
+
+/* Collapsed button box */
+#ytSidebarCollapsed {
+  background-color: #282828;
+  color: white;
+  padding: 10px;
+  border-radius: 6px 0 0 6px;
+  cursor: pointer;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+  display: flex;
+  align-items: center;
+}
+
+/* Expanded sidebar */
+#ytSidebarExpanded {
+  width: 400px;
+  height: 80vh;
+  background-color: #f9f9f9;
+  color: #111;
+  border-left: 2px solid #ccc;
+  padding: 10px;
+  overflow-y: auto;
+  box-shadow: -2px 0 5px rgba(0,0,0,0.2);
+}
+
+#ytSidebarHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+#ytSidebarHeader button {
+  background-color: #d33;
+  color: white;
+  border: none;
+  padding: 4px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#ytSidebarContent p {
+  margin: 8px 0;
+  line-height: 1.4;
+}

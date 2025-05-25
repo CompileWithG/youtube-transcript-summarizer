@@ -1,0 +1,18 @@
+{
+  "name": "youtube-smart-sidebar",
+  "version": "1.2.0",
+  "scripts": {
+    "build": "vite build"
+  },
+  "dependencies": {
+    "youtube-transcript": "^1.2.1"
+  },
+  "devDependencies": {
+    "vite": "^5.4.19"
+  },
+  "main": "vite.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
